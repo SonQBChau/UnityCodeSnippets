@@ -13,7 +13,7 @@ public class CSVParsing : MonoBehaviour
 
 	private char lineSeperater = '\n'; // It defines line seperate character
 	private char fieldSeperator = ','; // It defines field seperate chracter
-	private string fileName = "my_data_storage.csv"; // path in android will be data/com.ninehunredlbs.appname/filename
+	private string fileName = "my_data_storage.csv"; // path in android will be data/com.company.appname/filename
 
 	void Start () 
 	{
